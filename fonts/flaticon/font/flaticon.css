@@ -1,0 +1,89 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 25/01/2020 23:38
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-shop:before { content: "\f100"; color: #21602b !important;}
+.flaticon-pool:before { content: "\f101"; color: #21602b !important;}
+.flaticon-pool-1:before { content: "\f102"; color: #21602b !important;}
+.flaticon-desk:before { content: "\f103"; color: #21602b !important;}
+.flaticon-working:before { content: "\f104"; color: #21602b !important;}
+.flaticon-exit:before { content: "\f105"; color: #21602b !important;}
+.flaticon-hairdryer:before { content: "\f106"; color: #21602b !important;}
+.flaticon-minibar:before { content: "\f107"; color: #21602b !important;}
+.flaticon-drinks:before { content: "\f108"; color: #21602b !important;}
+.flaticon-coffee-cup:before { content: "\f109"; color: #21602b !important;}
+.flaticon-cheer:before { content: "\f10a"; color: #21602b !important;}
+.flaticon-champagne:before { content: "\f10b"; color: #21602b !important;}
+.flaticon-cocktail:before { content: "\f10c"; color: #21602b !important;}
+.flaticon-food-and-restaurant:before { content: "\f10d"; color: #21602b !important;}
+.flaticon-toast:before { content: "\f10e"; color: #21602b !important;}
+.flaticon-bar:before { content: "\f10f"; color: #21602b !important;}
+.flaticon-alcohol:before { content: "\f110"; color: #21602b !important;}
+.flaticon-food-tray:before { content: "\f111"; color: #21602b !important;}
+.flaticon-waiter:before { content: "\f112"; color: #21602b !important;}
+.flaticon-tray:before { content: "\f113"; color: #21602b !important;}
+.flaticon-tv:before { content: "\f114"; color: #21602b !important;}
+.flaticon-tv-1:before { content: "\f115"; color: #21602b !important;}
+.flaticon-wifi:before { content: "\f116"; color: #21602b !important;}
+.flaticon-wifi-1:before { content: "\f117"; color: #21602b !important;}
+.flaticon-catering:before { content: "\f118"; color: #21602b !important;}
+.flaticon-party:before { content: "\f119"; color: #21602b !important;}
+.flaticon-fireworks:before { content: "\f11a"; color: #21602b !important;}
+.flaticon-christmas-ball:before { content: "\f11b"; color: #21602b !important;}
+.flaticon-beers:before { content: "\f11c"; color: #21602b !important;}
+.flaticon-confetti:before { content: "\f11d"; color: #21602b !important;}
+.flaticon-confetti-ball:before { content: "\f11e"; color: #21602b !important;}
+.flaticon-clown:before { content: "\f11f"; color: #21602b !important;}
+.flaticon-disco-ball:before { content: "\f120"; color: #21602b !important;}
+.flaticon-beauty-salon:before { content: "\f121"; color: #21602b !important;}
+.flaticon-electric-car:before { content: "\f122"; color: #21602b !important;}
+.flaticon-wifi-signal:before { content: "\f123"; color: #21602b !important;}
+.flaticon-mail-envelope:before { content: "\f124"; color: #21602b !important;}
+.flaticon-at-symbol:before { content: "\f125"; color: #21602b !important;}
+.flaticon-movie-film:before { content: "\f126"; color: #21602b !important;}
+.flaticon-movie-camera:before { content: "\f127"; color: #21602b !important;}
+.flaticon-map:before { content: "\f128"; color: #21602b !important;}
+.flaticon-rudder:before { content: "\f129"; color: #21602b !important;}
+.flaticon-inflatable-boat:before { content: "\f12a"; color: #21602b !important;}
+.flaticon-fishing-hook:before { content: "\f12b"; color: #21602b !important;}
+.flaticon-snowflake:before { content: "\f12c"; color: #21602b !important;}
+.flaticon-no-swimming:before { content: "\f12d"; color: #21602b !important;}
+.flaticon-authentication:before { content: "\f12e"; color: #21602b !important;}
+.flaticon-credit-card:before { content: "\f12f"; color: #21602b !important;}
+.flaticon-fish:before { content: "\f130"; color: #21602b !important;}
+.flaticon-money:before { content: "\f131"; color: #21602b !important;}

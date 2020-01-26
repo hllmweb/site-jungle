@@ -1,0 +1,140 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 25/01/2020 23:38
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-shop:before { content: "\f100"; }
+.flaticon-pool:before { content: "\f101"; }
+.flaticon-pool-1:before { content: "\f102"; }
+.flaticon-desk:before { content: "\f103"; }
+.flaticon-working:before { content: "\f104"; }
+.flaticon-exit:before { content: "\f105"; }
+.flaticon-hairdryer:before { content: "\f106"; }
+.flaticon-minibar:before { content: "\f107"; }
+.flaticon-drinks:before { content: "\f108"; }
+.flaticon-coffee-cup:before { content: "\f109"; }
+.flaticon-cheer:before { content: "\f10a"; }
+.flaticon-champagne:before { content: "\f10b"; }
+.flaticon-cocktail:before { content: "\f10c"; }
+.flaticon-food-and-restaurant:before { content: "\f10d"; }
+.flaticon-toast:before { content: "\f10e"; }
+.flaticon-bar:before { content: "\f10f"; }
+.flaticon-alcohol:before { content: "\f110"; }
+.flaticon-food-tray:before { content: "\f111"; }
+.flaticon-waiter:before { content: "\f112"; }
+.flaticon-tray:before { content: "\f113"; }
+.flaticon-tv:before { content: "\f114"; }
+.flaticon-tv-1:before { content: "\f115"; }
+.flaticon-wifi:before { content: "\f116"; }
+.flaticon-wifi-1:before { content: "\f117"; }
+.flaticon-catering:before { content: "\f118"; }
+.flaticon-party:before { content: "\f119"; }
+.flaticon-fireworks:before { content: "\f11a"; }
+.flaticon-christmas-ball:before { content: "\f11b"; }
+.flaticon-beers:before { content: "\f11c"; }
+.flaticon-confetti:before { content: "\f11d"; }
+.flaticon-confetti-ball:before { content: "\f11e"; }
+.flaticon-clown:before { content: "\f11f"; }
+.flaticon-disco-ball:before { content: "\f120"; }
+.flaticon-beauty-salon:before { content: "\f121"; }
+.flaticon-electric-car:before { content: "\f122"; }
+.flaticon-wifi-signal:before { content: "\f123"; }
+.flaticon-mail-envelope:before { content: "\f124"; }
+.flaticon-at-symbol:before { content: "\f125"; }
+.flaticon-movie-film:before { content: "\f126"; }
+.flaticon-movie-camera:before { content: "\f127"; }
+.flaticon-map:before { content: "\f128"; }
+.flaticon-rudder:before { content: "\f129"; }
+.flaticon-inflatable-boat:before { content: "\f12a"; }
+.flaticon-fishing-hook:before { content: "\f12b"; }
+.flaticon-snowflake:before { content: "\f12c"; }
+.flaticon-no-swimming:before { content: "\f12d"; }
+.flaticon-authentication:before { content: "\f12e"; }
+.flaticon-credit-card:before { content: "\f12f"; }
+.flaticon-fish:before { content: "\f130"; }
+.flaticon-money:before { content: "\f131"; }
+    
+    $font-Flaticon-shop: "\f100";
+    $font-Flaticon-pool: "\f101";
+    $font-Flaticon-pool-1: "\f102";
+    $font-Flaticon-desk: "\f103";
+    $font-Flaticon-working: "\f104";
+    $font-Flaticon-exit: "\f105";
+    $font-Flaticon-hairdryer: "\f106";
+    $font-Flaticon-minibar: "\f107";
+    $font-Flaticon-drinks: "\f108";
+    $font-Flaticon-coffee-cup: "\f109";
+    $font-Flaticon-cheer: "\f10a";
+    $font-Flaticon-champagne: "\f10b";
+    $font-Flaticon-cocktail: "\f10c";
+    $font-Flaticon-food-and-restaurant: "\f10d";
+    $font-Flaticon-toast: "\f10e";
+    $font-Flaticon-bar: "\f10f";
+    $font-Flaticon-alcohol: "\f110";
+    $font-Flaticon-food-tray: "\f111";
+    $font-Flaticon-waiter: "\f112";
+    $font-Flaticon-tray: "\f113";
+    $font-Flaticon-tv: "\f114";
+    $font-Flaticon-tv-1: "\f115";
+    $font-Flaticon-wifi: "\f116";
+    $font-Flaticon-wifi-1: "\f117";
+    $font-Flaticon-catering: "\f118";
+    $font-Flaticon-party: "\f119";
+    $font-Flaticon-fireworks: "\f11a";
+    $font-Flaticon-christmas-ball: "\f11b";
+    $font-Flaticon-beers: "\f11c";
+    $font-Flaticon-confetti: "\f11d";
+    $font-Flaticon-confetti-ball: "\f11e";
+    $font-Flaticon-clown: "\f11f";
+    $font-Flaticon-disco-ball: "\f120";
+    $font-Flaticon-beauty-salon: "\f121";
+    $font-Flaticon-electric-car: "\f122";
+    $font-Flaticon-wifi-signal: "\f123";
+    $font-Flaticon-mail-envelope: "\f124";
+    $font-Flaticon-at-symbol: "\f125";
+    $font-Flaticon-movie-film: "\f126";
+    $font-Flaticon-movie-camera: "\f127";
+    $font-Flaticon-map: "\f128";
+    $font-Flaticon-rudder: "\f129";
+    $font-Flaticon-inflatable-boat: "\f12a";
+    $font-Flaticon-fishing-hook: "\f12b";
+    $font-Flaticon-snowflake: "\f12c";
+    $font-Flaticon-no-swimming: "\f12d";
+    $font-Flaticon-authentication: "\f12e";
+    $font-Flaticon-credit-card: "\f12f";
+    $font-Flaticon-fish: "\f130";
+    $font-Flaticon-money: "\f131";
